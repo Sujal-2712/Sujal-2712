@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sujal-27" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujal-27" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/sujal27" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujal-27" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/sujalkareliya27" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sujalkareliya27" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/sujalkareliya27" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujalkareliya27" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/sujal_27_12" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="sujalkareliya27" height="40" width="40" /></a>
