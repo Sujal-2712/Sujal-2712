@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently exploring React.js, Node.js, and MERN Stack development.<br>🎯 Focusing on building scalable and user-friendly web applications.<br>🛠️ Experienced in Data Structures & Algorithms and Object-Oriented Programming (OOP).<br>💬 Ask me about Full-Stack Development, Java Projects, and React Components!<br>🚀 Passionate about creating innovative and efficient solutions through code.<br><br>
+🌱 Currently exploring React.js, Node.js,TypeScript and MERN Stack development.<br>🎯 Focusing on building scalable and user-friendly web applications.<br>🛠️ Experienced in Data Structures & Algorithms and Object-Oriented Programming (OOP).<br>💬 Ask me about Full-Stack Development, Java Projects, and React Components!<br>🚀 Passionate about creating innovative and efficient solutions through code.<br><br>
 
 
 ## 🌐 Socials:
